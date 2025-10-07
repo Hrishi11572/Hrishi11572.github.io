@@ -7,6 +7,7 @@ tags: [Metaphysics]
 
 # The Prose of life :
 
+This first Blog is all metaphysical, not related to tech, just wierd questions, unanswered. 
 
 ## Is life Cruel ? 
 > Don't you think, life is cruel. Not because we meet some very bad people or something bad happens to us, but because of the very perishable nature of life ? I mean <b>yes, I could be a billionaire or a beggar in the course of life</b> but at the end, it doesn't seem to have made a difference, I would die eventually leaving behind all my wealth and my so-proud achievements. The strange part, for most of us <i> the normal </i>  human beings, even the 3<sup>rd</sup> generation after us might not remember us.
