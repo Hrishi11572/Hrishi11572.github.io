@@ -3,6 +3,7 @@ import ReactMarkdown from "react-markdown";
 import remarkMath from "remark-math";
 import rehypeKatex from "rehype-katex";
 import rehypeHighlight from "rehype-highlight";
+import rehypeRaw from "rehype-raw";
 import "highlight.js/styles/github.css";
 import { notFound } from "next/navigation";
 
@@ -39,7 +40,7 @@ export default async function Post({ params }: { params: Promise<{ slug: string 
       <div className="markdown-content max-w-none text-gray-900 leading-relaxed">
         <ReactMarkdown
           remarkPlugins={[remarkMath]}
-          rehypePlugins={[rehypeKatex, rehypeHighlight]}
+          rehypePlugins={[rehypeRaw, rehypeKatex, rehypeHighlight]}
         >
           {postData.content}
         </ReactMarkdown>

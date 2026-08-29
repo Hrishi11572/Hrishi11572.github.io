@@ -22,7 +22,7 @@ Bhagat
 <I>Usse ye fikr hai hardam ki naya tarz-e-jafa kya hai, <br>
 Aur hamein shauq hai dekhein, sitam ki intihan kya hai. <br>
 
-(He, the oppressor is worried about various new means to annihilate our will,
+(He, the oppressor is worried about various new means to annihilate our will.
 All we want to see is, what are his limits.)
 </I>
 
