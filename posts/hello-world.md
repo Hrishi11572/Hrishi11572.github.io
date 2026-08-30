@@ -1,6 +1,6 @@
 ---
 title: "Some verses loved by Bhagat singh!"
-date: "2014-03-06"
+date: "30-08-2026"
 description: "Have a glimpse into the mind and heart of India's bravest revolutionary."
 image: "https://upload.wikimedia.org/wikipedia/commons/5/54/Bhagat_Singh_1929.jpg"
 color: "#fafafa"
